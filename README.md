@@ -1,6 +1,7 @@
 # Supply Chain Optimization for Uniquexcel
 
 A data-driven end-to-end supply chain optimization project built with Microsoft Excel. This project analyzes operational data for **Uniquexcel**, a U.S.-based fashion and beauty brand, to address stockout risks, identify logistics bottlenecks, evaluate supplier reliability, and enhance overall profitability.
+<img width="1230" height="653" alt="sp" src="https://github.com/user-attachments/assets/145a5db2-db3d-4a3e-bc5c-2bc2eb9ee455" />
 
 ---
 
@@ -14,6 +15,19 @@ A data-driven end-to-end supply chain optimization project built with Microsoft 
 - [Project Setup & Folder Structure](#project-setup--folder-structure)
 - [How to Use This Repository](#how-to-use-this-repository)
 
+
+## Dashboard Overview
+
+![Supply Chain Optimization Dashboard](sp.png)
+
+The interactive Excel dashboard incorporates:
+- **KPI Summary Cards:** Displays total SKUs, average shipping costs, and lead times.
+- **Interactive Slicers:** Allows dynamic filtering by **Location** and **Stockout Risk Status**.
+- **Charts & Visualizations:**
+  - 3D Pie Charts for Route Costs, Lead Times, and Transport Modes.
+  - Combo Chart combining Bar and Line elements for Supplier Defect Rates vs. Lead Times.
+  - Clustered Bar Charts showing Top 10 Profitable SKUs.
+- **Navigation Links:** Embedded hyperlinked buttons for seamless tab navigation between the Dashboard, Pivot Tables, and Raw Data.
 ---
 
 ## Executive Summary
